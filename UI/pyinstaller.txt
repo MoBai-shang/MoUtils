@@ -1,0 +1,1 @@
+pyinstaller -F -w --icon=s2.ico Main.py
